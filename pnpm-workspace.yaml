@@ -1,6 +1,6 @@
 # allowBuilds:
 #   bcrypt: false
 #   sharp: false
-onlyBuiltDependencies:
-  - bcrypt
-  - sharp
+allowBuilds:
+  bcrypt: true
+  sharp: true
