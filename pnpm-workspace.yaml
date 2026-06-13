@@ -1,6 +1,9 @@
 # allowBuilds:
 #   bcrypt: false
 #   sharp: false
+packages:
+  - "."
+
 allowBuilds:
   bcrypt: true
   sharp: true
